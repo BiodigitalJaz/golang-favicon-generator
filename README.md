@@ -60,11 +60,3 @@ s := NewServer("3000") // Change to your desired port
 2. When a request to `/favicon.ico` is received, the `faviconHandler` function is called
 3. The handler generates a 16x16 pixel image with random colors for each pixel
 4. The image is encoded as PNG and sent in the response with the appropriate content type
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contributing guidelines here]
